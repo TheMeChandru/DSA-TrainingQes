@@ -1,6 +1,6 @@
 public class MoveZeroEnd {
     public static void main(String[] args) {
-        int arr[]={1,0,2,0,3,5};
+      int arr[]={1,0,2,0,3,5};
       int[] t= new int[6];
       int n=arr.length;
       int count=0;
